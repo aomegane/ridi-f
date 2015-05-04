@@ -43,3 +43,5 @@ group :development, :test do
   gem 'spring'
 end
 
+# CSSフレームワーク
+gem 'purecss-rails'
