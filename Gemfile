@@ -45,3 +45,6 @@ end
 
 # CSSフレームワーク
 gem 'purecss-rails'
+
+# bing検索API
+gem 'searchbing'
